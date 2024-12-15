@@ -1,0 +1,7 @@
+packaging
+transformer
+datasets
+tqdm
+librosa
+ninja
+flash-attn --no-build-isolation
