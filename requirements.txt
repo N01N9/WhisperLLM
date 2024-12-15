@@ -1,5 +1,5 @@
 packaging
-transformer
+transformers
 datasets
 tqdm
 librosa
